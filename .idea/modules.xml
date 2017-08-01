@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoogleMaps-master.iml" filepath="$PROJECT_DIR$/GoogleMaps-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapsNearbyPlaces.iml" filepath="$PROJECT_DIR$/MapsNearbyPlaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
